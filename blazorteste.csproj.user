@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\marce\Source\Repos\vocatore\blazorteste\.github\workflows\stapp-clubecellstore2.yml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
