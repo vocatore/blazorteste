@@ -13,7 +13,8 @@ on:
     - main
 env:
   AZURE_STATIC_WEBAPP_NAME: stapp-clubecellstore2
-  APP_DIRECTORY: blazorteste
+    
+  APP_DIRECTORY: ''
   API_DIRECTORY: ''
   OUTPUT: wwwroot
   DEPLOYMENT_ENVIRONMENT: preview
